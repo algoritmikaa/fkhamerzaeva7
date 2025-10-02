@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a{
+    margin: 50px;
+    text-decoration: none;
+    border-bottom: 5px solid black;
+    color: black;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.so{
+    text-align: center;
+}
+
+.so img{
+    border-left: 10px dotted black;
+    margin: 20px;
+}
+
+.six{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+footer p{
+    background-color: white;
+}
+
+footer{
+    background-color: black;
+    padding: 5px;
+}
+
